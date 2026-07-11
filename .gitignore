@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/.venv/
+
+# Node
+node_modules/
+
+# Environment
+.env
+backend/.env
+
+# Uploads
+backend/uploads/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python Cache
+.pytest_cache/
+
+# Build
+dist/
+build/
+
+# ML Models
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
